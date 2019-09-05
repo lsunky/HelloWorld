@@ -12,7 +12,7 @@ public class AppMain
 {
     static void Main(string[] args)
     {
-        //string configName = "AccessoryConfigSheet";
+        //string configName = "AccessoryConfigSheet"; 测试上传
         //FileStream stream1 = File.Open(AppConst.binRoot + configName + ".bin", FileMode.Open, FileAccess.Read);
         //string readText = File.ReadAllText("d:/test/json/AccessoryConfig.json");
         //DateTime startTime = DateTime.Now;
