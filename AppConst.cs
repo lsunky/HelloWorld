@@ -1,7 +1,7 @@
 ﻿/// <summary>
 /// Author      Liuxun
 /// Date        2018/9/10 14:39:28
-/// Description:AppConst  增加说明
+/// Description:AppConst  随便改改
 /// </summary>
 
 using System;
